@@ -21,18 +21,16 @@ My classwork for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Die
 
 -Class 11 [Structural Bioinformatics (pt2 AlphaFold)](class11/class11.md)
 
--Class 12 [Genome informatics and high throughput sequencing](class12/class12.md)
+-Class 12 [Genome informatics and high throughput sequencing](class12/class11pt1.md)
 
 -Class 13 [Transcriptomics, RNA-Seq analysis, and the interpretation of gene lists](class13/class13.md)
 
 -Class 14 [RNA-Seq mini project](class14/class14.md)
 
--Class 15 [Hands-on with Git and GitHub](class15/class15.md)
-
--Class 17 [Analyzing sequencing data in the cloud](class17/class17.md)
+-Class 15 [Hands-on with Git and GitHub]GITHUB link
 
 -Class 18 [Investigating pertussis resurgence mini-project](class18/class18.md)
 
--Class 19 [Cancer mutation analysis mini-project](class19/class19.md)
+-Class 19 [Cancer mutation analysis mini-project]PDF HW
 
 
