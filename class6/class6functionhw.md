@@ -70,7 +70,7 @@ plot_protein("1AKE")
       Note: Accessing on-line PDB file
 
     Warning in get.pdb(file, path = tempdir(), verbose = FALSE):
-    C:\Users\josep\AppData\Local\Temp\Rtmpaepw84/1AKE.pdb exists. Skipping download
+    C:\Users\josep\AppData\Local\Temp\Rtmp0mLA7L/1AKE.pdb exists. Skipping download
 
        PDB has ALT records, taking A only, rm.alt=TRUE
 
