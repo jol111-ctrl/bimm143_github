@@ -35,5 +35,4 @@ My classwork for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Die
 
 -Class 19 [Cancer mutation analysis mini-project](class19/class19.md)
 
-im an idiot
 
