@@ -1,0 +1,18 @@
+---
+title: "Class 17: Downstream analysis"
+author: "Joseph Lo (PID: A18121493)"
+format: html
+---
+
+```{r}
+library(tximport)
+
+folders <- dir(pattern="SRR21568*")
+samples <- sub("_quant", "", folders)
+files <- file.path( folders, "abundance.h5" )
+names(files) <- samples
+
+txi.kallisto <- tximport(files, type = "kallisto", txOut = TRUE)
+```
+
+

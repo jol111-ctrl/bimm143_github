@@ -1,0 +1,32 @@
+---
+title: "Class 19: Cancer"
+author: "Joseph Lo (PID: A18121493)"
+format: html
+---
+
+```{r}
+library(bio3d)
+
+a <- read.fasta("A18121493_mutant_seq.fa")
+a
+
+```
+
+```{r}
+conserv(a)
+```
+
+```{r}
+which(conserv(a)<1)
+```
+
+
+```{r}
+mutation.sites <- which(conserv(a)<1)
+```
+
+```{r}
+a$ali[1,mutation.sites],
+mutation.sites,
+a$ali[2,mutation.sites]
+```
